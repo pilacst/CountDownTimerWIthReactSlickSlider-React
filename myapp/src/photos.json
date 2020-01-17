@@ -1,0 +1,121 @@
+[
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "Product one",
+    "url": "https://via.placeholder.com/600/92c952",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "Product two",
+    "url": "https://via.placeholder.com/600/771796",
+    "thumbnailUrl": "https://via.placeholder.com/150/771796"
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "Product three",
+    "url": "https://via.placeholder.com/600/24f355",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+  },
+  {
+    "albumId": 1,
+    "id": 4,
+    "title": "Product four",
+    "url": "https://via.placeholder.com/600/d32776",
+    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "Product five",
+    "url": "https://via.placeholder.com/600/f66b97",
+    "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "Product six",
+    "url": "https://via.placeholder.com/600/56a8c2",
+    "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "Product seven",
+    "url": "https://via.placeholder.com/600/b0f7cc",
+    "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
+  },
+  {
+    "albumId": 1,
+    "id": 8,
+    "title": "Product eight",
+    "url": "https://via.placeholder.com/600/54176f",
+    "thumbnailUrl": "https://via.placeholder.com/150/54176f"
+  },
+  {
+    "albumId": 1,
+    "id": 9,
+    "title": "Product nine",
+    "url": "https://via.placeholder.com/600/51aa97",
+    "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
+  },
+  {
+    "albumId": 1,
+    "id": 10,
+    "title": "Product ten",
+    "url": "https://via.placeholder.com/600/810b14",
+    "thumbnailUrl": "https://via.placeholder.com/150/810b14"
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "Product eleven",
+    "url": "https://via.placeholder.com/600/1ee8a4",
+    "thumbnailUrl": "https://via.placeholder.com/150/1ee8a4"
+  },
+  {
+    "albumId": 1,
+    "id": 12,
+    "title": "Product twelve",
+    "url": "https://via.placeholder.com/600/66b7d2",
+    "thumbnailUrl": "https://via.placeholder.com/150/66b7d2"
+  },
+  {
+    "albumId": 1,
+    "id": 13,
+    "title": "13",
+    "url": "https://via.placeholder.com/600/197d29",
+    "thumbnailUrl": "https://via.placeholder.com/150/197d29"
+  },
+  {
+    "albumId": 1,
+    "id": 14,
+    "title": "14",
+    "url": "https://via.placeholder.com/600/61a65",
+    "thumbnailUrl": "https://via.placeholder.com/150/61a65"
+  },
+  {
+    "albumId": 1,
+    "id": 15,
+    "title": "15",
+    "url": "https://via.placeholder.com/600/f9cee5",
+    "thumbnailUrl": "https://via.placeholder.com/150/f9cee5"
+  },
+  {
+    "albumId": 1,
+    "id": 16,
+    "title": "16",
+    "url": "https://via.placeholder.com/600/fdf73e",
+    "thumbnailUrl": "https://via.placeholder.com/150/fdf73e"
+  },
+  {
+    "albumId": 1,
+    "id": 17,
+    "title": "17",
+    "url": "https://via.placeholder.com/600/9c184f",
+    "thumbnailUrl": "https://via.placeholder.com/150/9c184f"
+  }
+]

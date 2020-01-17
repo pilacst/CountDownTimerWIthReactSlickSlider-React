@@ -1,0 +1,51 @@
+          <h2 style={{color: "white"}}>This is title</h2>
+            <h1 style={{color: "white"}}>This is sub title</h1>
+            <div className="timer-container">
+            <div className="inline">
+            <FlipNumbers
+                play
+                color="#fff"
+                background="#333333"
+                width={50}
+                height={50}
+                numbers={`${this.state.days}`}
+            />
+            Days
+        </div>
+        -
+        <div className="inline">
+            <FlipNumbers
+                play
+                color="#fff"
+                background="#333333"
+                width={50}
+                height={50}
+                numbers={`${this.state.hours}`}
+            />
+            Hours
+        </div>
+        -
+        <div className="inline">
+            <FlipNumbers
+                play
+                color="#fff"
+                background="#333333"
+                width={50}
+                height={50}
+                numbers={`${this.state.minuits}`}
+            />
+            Minutes
+        </div>
+        - 
+        <div className="inline">
+            <FlipNumbers
+                play
+                color="#fff"
+                background="#333333"
+                width={50}
+                height={50}
+                numbers={`${this.state.seconds}`}
+            />
+            Seconds
+        </div>  
+            </div> 
